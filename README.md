@@ -1,4 +1,4 @@
-# Equacao2grau
+# Equacao do 2º
 Este código é a forma que eu encontrei de achar as raízes de uma equação do 2° grau utilizando lambda, list comprehension e outras coisas.
 A ideia deste código era de montar um algortimo com uma ```extrema lógica``` para que fosse possível a realização de uma ```equação de 2º```.
 
